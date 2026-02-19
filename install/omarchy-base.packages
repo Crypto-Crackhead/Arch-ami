@@ -14,7 +14,6 @@ bluetui
 bolt
 brightnessctl
 btop
-chromium
 clang
 cups
 cups-browsed
@@ -34,10 +33,10 @@ fcitx5
 fcitx5-gtk
 fcitx5-qt
 fd
+firefox
 ffmpegthumbnailer
 fontconfig
 fzf
-ghostty
 github-cli
 gnome-calculator
 gnome-keyring
@@ -62,7 +61,6 @@ inetutils
 inxi
 iwd
 jq
-kdenlive
 kvantum-qt5
 lazydocker
 lazygit
@@ -88,7 +86,6 @@ noto-fonts-emoji
 noto-fonts-extra
 nss-mdns
 nvim
-obs-studio
 obsidian
 omarchy-nvim
 omarchy-walker
@@ -110,9 +107,7 @@ ruby
 rust
 satty
 sddm
-signal-desktop
 slurp
-spotify
 starship
 sushi
 swaybg
